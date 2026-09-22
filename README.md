@@ -1,7 +1,7 @@
 # rish
 ## встановлення dhizuku termux
 ```bash
-   termux-setup-storage
+termux-setup-storage && \
 pkg update -y && pkg install -y termux-api play-audio python-pip dos2unix
 ```
 ___
