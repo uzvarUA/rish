@@ -1,4 +1,7 @@
 # rish
+1. [Завантажити](https://github.com/uzvarUA/rish/releases)
+2. [Завантажити](https://github-store.org/app?repo=iamr0s/Dhizuku)
+3. [Завантажити](https://github-store.org/app?repo=thedjchi/Shizuku)
 ## встановлення dhizuku termux
 ```bash
 termux-setup-storage && \
